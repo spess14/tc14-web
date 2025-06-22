@@ -28,13 +28,13 @@ export default function Home() {
           <div className="grid lg:grid-cols-3 gap-8 items-start">
             <div className="lg:col-span-2">
               <div className="backdrop-blur-lg bg-black/40 rounded-3xl p-8 md:p-12 border border-white/10">
-                <h1 className="text-3xl md:text-6xl font-bold mb-6 text-green-400">
+                <h1 className="text-4xl md:text-5xl font-bold mb-6 text-green-400">
                   Trailblazer Colony 14
                 </h1>
-                <p className="text-xl md:text-2xl text-gray-200 mb-8">
+                <p className="text-l md:text-xl text-gray-200 mb-8">
                   Rimworld-inspired fork of Space Station 14.
                 </p>
-                <div className="flex flex-col sm:flex-row gap-4">
+                <div className="flex flex-row flex-wrap gap-4">
                   <Link href="https://discord.gg/x6BSUAr8cH">
                     <Button className="bg-purple-600 hover:bg-purple-700 text-white">
                       <SiDiscord className="h-5 w-5 mr-2" />
