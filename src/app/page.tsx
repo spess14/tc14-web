@@ -2,7 +2,6 @@ import { ServerStatus } from "@/components/server-status";
 import { SiDiscord, SiGithub } from "@icons-pack/react-simple-icons";
 import { Button } from "@/components/ui/button";
 import { Book } from "lucide-react";
-import Image from "next/image";
 import Link from "next/link";
 
 export default function Home() {
@@ -17,7 +16,7 @@ export default function Home() {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
-              <Image src="/img/tc14.png" alt="Trailblazer Colony 14" className="h-8 w-8" width="128" height="128" />
+              <img src="/img/tc14.png" alt="Trailblazer Colony 14" className="h-8 w-8" width="128" height="128" />
               <span className="text-xl font-bold text-white">Trailblazer Colony 14</span>
             </div>
           </div>
