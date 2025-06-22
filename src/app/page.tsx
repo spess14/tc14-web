@@ -32,7 +32,7 @@ export default function Home() {
                   Trailblazer Colony 14
                 </h1>
                 <p className="text-xl md:text-2xl text-gray-200 mb-8">
-                  A rimworld-inspired fork of Space Station 14. Experience enhanced gameplay mechanics in a space colony setting.
+                  Rimworld-inspired fork of Space Station 14.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4">
                   <Link href="https://discord.gg/x6BSUAr8cH">
