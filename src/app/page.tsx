@@ -28,7 +28,7 @@ export default function Home() {
           <div className="grid lg:grid-cols-3 gap-8 items-start">
             <div className="lg:col-span-2">
               <div className="backdrop-blur-lg bg-black/40 rounded-3xl p-8 md:p-12 border border-white/10">
-                <h1 className="text-4xl md:text-6xl font-bold mb-6 text-green-400">
+                <h1 className="text-3xl md:text-6xl font-bold mb-6 text-green-400">
                   Trailblazer Colony 14
                 </h1>
                 <p className="text-xl md:text-2xl text-gray-200 mb-8">
