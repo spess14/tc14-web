@@ -42,7 +42,7 @@ export default function Home() {
                     </Button>
                   </Link>
 
-                  <Link href="https://discord.gg/x6BSUAr8cH">
+                  <Link href="https://tc14.ar-iss.net">
                     <Button variant="outline" className="bg-white/10 border-white/20 hover:bg-white/20 text-white">
                       <Book className="h-5 w-5 mr-2" />
                       Wiki
