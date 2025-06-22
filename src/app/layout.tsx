@@ -15,6 +15,13 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Trailblazer Colony 14",
   description: "Rimworld-inspired fork of Space Station 14.",
+  openGraph: {
+    type: "website",
+    images: [
+      "https://tc14.space/img/tc14_bg.jpg"
+    ]
+  },
+  creator: "Lilith Ashley Nyx Arson"
 };
 
 export default function RootLayout({
