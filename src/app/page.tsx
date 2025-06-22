@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-black text-white relative overflow-hidden">
       <div className="absolute inset-0">
-        <div className="absolute inset-0 bg-[url('/img/tc14_bg.jpg')] bg-cover bg-center bg-fixed" />
+        <div className="absolute inset-0 bg-[url('/img/tc14_bg.webp')] bg-cover bg-center bg-fixed" />
         <div className="absolute inset-0 bg-black/50" />
       </div>
 
