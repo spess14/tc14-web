@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     images: [
-      "https://tc14.space/img/tc14_bg.jpg"
+      "https://tc14.space/img/tc14_bg.webp"
     ]
   },
   creator: "Lilith Ashley Nyx Arson"
